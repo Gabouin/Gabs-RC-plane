@@ -7,3 +7,4 @@ Here are the plans I made on Canva and convert as a PDF for the structure of the
 
 <img width="620" height="410" alt="image" src="https://github.com/user-attachments/assets/544ec887-13f8-47ff-8cdd-9bc22db5cd42" />
 
+video of the demo : https://youtube.com/shorts/v7-GCenTMmM
