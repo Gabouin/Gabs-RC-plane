@@ -1,0 +1,17 @@
+Simple schematic of how the electronics work in the RC plane : 
+
+[ 11.1V LiPo Battery 2500mAh ]
+               |
+               v
+         [ ESC 30A ]
+          |       |
+          |       +--------------------+
+          |                            |
+          v                            v
+[ Brushless Motor 1000KV ]   [ FS-IA6B Receiver ]
+                                      |
+             +------------------------+------------------------+
+             |                        |                        |
+             v                        v                        v
+     [ 9g Servo ]             [ 9g Servo ]             [ 9g Servo ]
+      (Left Wing)              (Right Wing)        (Horizontal Tail)
