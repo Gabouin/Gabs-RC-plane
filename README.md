@@ -19,11 +19,18 @@ Pictures of the assembled plane :
 ![IMG_5611](https://github.com/user-attachments/assets/6bb04849-83d1-4436-9f39-bd2b534afa9a)
 ![IMG_5600](https://github.com/user-attachments/assets/a9fd24d9-a4a6-4274-8396-f896fdae303c)
 
-
-
-
-
-
-
 video of the demo : https://youtube.com/shorts/v7-GCenTMmM
+
+Wiring diagrams : 
+
+<img width="567" height="429" alt="image" src="https://github.com/user-attachments/assets/fcfaf8cc-fb93-425c-ac2a-67153200a886" />
+<img width="733" height="514" alt="image" src="https://github.com/user-attachments/assets/448509a7-57fd-429e-aa6f-cd24d9ce2c9c" />
+
+
+
+
+
+
+
+
 
