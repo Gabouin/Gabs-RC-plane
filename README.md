@@ -14,7 +14,7 @@ This repository documents the full project lifecycle:
 - bill of materials
 - build journal
 
-🎥 Flight demo: [YouTube short](https://youtube.com/shorts/v7-GCenTMmM)
+Flight demo: [YouTube short](https://youtube.com/shorts/v7-GCenTMmM)
 
 ## Repository structure
 
